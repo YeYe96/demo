@@ -156,8 +156,3 @@ class Environment:
                                 uav_los + uav_nlos) ** (-1))
                         break
                                     
-
-
-    '''
-    找到源码env中对agent定义相关的部分
-    '''
